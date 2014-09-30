@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2012//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_120101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">22291596</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7374</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS pathogens</Title>
+                <ISOAbbreviation>PLoS Pathog.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The bacterial cytoskeleton modulates motility, type 3 secretion, and colonization in salmonella.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1002500</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Although there have been great advances in our understanding of the bacterial cytoskeleton, major gaps remain in our knowledge of its importance to virulence. In this study we have explored the contribution of the bacterial cytoskeleton to the ability of Salmonella to express and assemble virulence factors and cause disease. The bacterial actin-like protein MreB polymerises into helical filaments and interacts with other cytoskeletal elements including MreC to control cell-shape. As mreB appears to be an essential gene, we have constructed a viable ΔmreC depletion mutant in Salmonella. Using a broad range of independent biochemical, fluorescence and phenotypic screens we provide evidence that the Salmonella pathogenicity island-1 type three secretion system (SPI1-T3SS) and flagella systems are down-regulated in the absence of MreC. In contrast the SPI-2 T3SS appears to remain functional. The phenotypes have been further validated using a chemical genetic approach to disrupt the functionality of MreB. Although the fitness of ΔmreC is reduced in vivo, we observed that this defect does not completely abrogate the ability of Salmonella to cause disease systemically. By forcing on expression of flagella and SPI-1 T3SS in trans with the master regulators FlhDC and HilA, it is clear that the cytoskeleton is dispensable for the assembly of these structures but essential for their expression. As two-component systems are involved in sensing and adapting to environmental and cell surface signals, we have constructed and screened a panel of such mutants and identified the sensor kinase RcsC as a key phenotypic regulator in ΔmreC. Further genetic analysis revealed the importance of the Rcs two-component system in modulating the expression of these virulence factors. Collectively, these results suggest that expression of virulence genes might be directly coordinated with cytoskeletal integrity, and this regulation is mediated by the two-component system sensor kinase RcsC.</AbstractText>
+            </Abstract>
+            <Affiliation>Centre for Bacterial Cell Biology, Institute for Cell and Molecular Biosciences, The Medical School, University of Newcastle, Newcastle, United Kingdom.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bulmer</LastName>
+                    <ForeName>David M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kharraz</LastName>
+                    <ForeName>Lubna</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grant</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dean</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Fiona J E</ForeName>
+                    <Initials>FJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karavolos</LastName>
+                    <ForeName>Michail H</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doble</LastName>
+                    <ForeName>Anne C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGhie</LastName>
+                    <ForeName>Emma J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koronakis</LastName>
+                    <ForeName>Vassilis</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daniel</LastName>
+                    <ForeName>Richard A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mastroeni</LastName>
+                    <ForeName>Pietro</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anjam Khan</LastName>
+                    <ForeName>C M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Pathog</MedlineTA>
+            <NlmUniqueID>101238921</NlmUniqueID>
+            <ISSNLinking>1553-7366</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1002500</ArticleId>
+            <ArticleId IdType="pii">PPATHOGENS-D-11-01079</ArticleId>
+            <ArticleId IdType="pubmed">22291596</ArticleId>
+            <ArticleId IdType="pmc">PMC3266929</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">22289118</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>1</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2958</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular microbiology</Title>
+            </Journal>
+            <ArticleTitle>A small RNA that regulates motility and biofilm formation in response to changes in nutrient availability in Escherichia coli.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1111/j.1365-2958.2012.07965.x</ELocationID>
+            <Abstract>
+                <AbstractText>In bacteria, many small regulatory RNAs (sRNAs) are induced in response to specific environmental signals or stresses and act by base-pairing with mRNA targets to affect protein translation or mRNA stability. In Escherichia coli, the gene for the sRNA IS061/IsrA, here renamed McaS, was predicted to reside in an intergenic region between abgR, encoding a transcription regulator and ydaL, encoding a small MutS-related protein. We show that McaS is a ∼ 95 nt transcript whose expression increases over growth, peaking in early-to-mid stationary phase, or when glucose is limiting. McaS uses three discrete single-stranded regions to regulate mRNA targets involved in various aspects of biofilm formation. McaS represses csgD, the transcription regulator of curli biogenesis and activates flhD, the master transcription regulator of flagella synthesis leading to increased motility, a process not previously reported to be regulated by sRNAs. McaS also regulates pgaA, a porin required for the export of the polysaccharide poly β-1,6-N-acetyl-d-glucosamine. Consequently, high levels of McaS result in increased biofilm formation while a strain lacking mcaS shows reduced biofilm formation. Based on our observations, we propose that, in response to limited nutrient availability, increasing levels of McaS modulate steps in the progression to a sessile lifestyle.</AbstractText>
+                <CopyrightInformation>Published 2012. This article is a U.S. Government work and is in the public domain in the USA.</CopyrightInformation>
+            </Abstract>
+            <Affiliation>Cell Biology and Metabolism Program, Eunice Kennedy Shriver National Institute of Child Health and Human Development, Bethesda, MD, USA Department of Biochemistry and Molecular &amp; Cellular Biology, Georgetown University Medical Center, Washington, DC, USA Laboratory of Molecular Biology, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Thomason</LastName>
+                    <ForeName>Maureen K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+                <Author>
+                    <LastName>Fontaine</LastName>
+                    <ForeName>Fanette</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author>
+                    <LastName>De Lay</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author>
+                    <LastName>Storz</LastName>
+                    <ForeName>Gisela</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Mol Microbiol</MedlineTA>
+            <NlmUniqueID>8712028</NlmUniqueID>
+            <ISSNLinking>0950-382X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.2012.07965.x</ArticleId>
+            <ArticleId IdType="pubmed">22289118</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">22287625</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>1</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1362-4962</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nucleic acids research</Title>
+            </Journal>
+            <ArticleTitle>A novel non-homologous recombination-mediated mechanism for Escherichia coli unilateral flagellar phase variation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Flagella contribute to the virulence of bacteria through chemotaxis, adhesion to and invasion of host surfaces. Flagellar phase variation is believed to facilitate bacterial evasion of the host immune response. In this study, the flnA gene that encodes Escherichia coli H17 flagellin was examined by whole genome sequencing and genetic deletion analysis. Unilateral flagellar phase variation has been reported in E. coli H3, H47 and H17 strains, although the mechanism for phase variation in the H17 strain has not been previously understood. Analysis of phase variants indicated that the flagellar phase variation in the H17 strain was caused by the deletion of an ∼35 kb DNA region containing the flnA gene from diverse excision sites. The presence of covalently closed extrachromosomal circular forms of this excised 35 kb region was confirmed by the two-step polymerase chain reaction. The deletion and complementation test revealed that the Int1157 integrase, a tyrosine recombinase, mediates the excision of this region. Unlike most tyrosine recombinases, Int1157 is suggested to recognize diverse sites and mediate recombination between non-homologous DNA sequences. This is the first report of non-homologous recombination mediating flagellar phase variation.</AbstractText>
+            </Abstract>
+            <Affiliation>TEDA School of Biological Sciences and Biotechnology, Nankai University, 23 Hongda Street, TEDA, Tianjin Key Laboratory of Microbial Functional Genomics, Tianjin Research Center for Functional Genomics and Biochip, Tianjin 300457 and The Key Laboratory of Molecular Microbiology and Technology, Ministry of Education, Tianjin, P. R. China.</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Liu</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author>
+                    <LastName>Hu</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author>
+                    <LastName>Zhou</LastName>
+                    <ForeName>Zhemin</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author>
+                    <LastName>Guo</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author>
+                    <LastName>Guo</LastName>
+                    <ForeName>Xi</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author>
+                    <LastName>Ding</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author>
+                    <LastName>Feng</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author>
+                    <LastName>Wang</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Nucleic Acids Res</MedlineTA>
+            <NlmUniqueID>0411011</NlmUniqueID>
+            <ISSNLinking>0305-1048</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">gks040</ArticleId>
+            <ArticleId IdType="doi">10.1093/nar/gks040</ArticleId>
+            <ArticleId IdType="pubmed">22287625</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">22278761</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>1</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-0991</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current microbiology</Title>
+            </Journal>
+            <ArticleTitle>Tropicibacter phthalicus sp. nov., A Phthalate-Degrading Bacterium from Seawater.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText>An aerobic, Gram-negative bacterial strain, designated KU27E1(T), which degrades phthalate and dimethylphthalate, was isolated from seawater obtained from the coastal region of Ishigaki Island, Japan. Cells are motile rods with polar flagella. Strain KU27E1(T) grew at 15-30°C, pH 6.0-8.0, in the presence of 1.0-2.0% (w/v) NaCl. The 16S rRNA gene sequence analysis revealed that this strain was affiliated with the family Rhodobacteraceae in the class Alphaproteobacteria, and was most closely related to Tropicibacter naphthalenivorans (96.8%). The predominant respiratory lipoquinone was ubiquinone-10, and the major cellular fatty acid was C(18:1)ω7c (88.5%). The G+C content of genomic DNA was 58.7 mol%. Based on the physiological, chemotaxonomic, and phylogenetic data, strain KU27E1(T) is suggested to represent a novel species of the genus Tropicibacter, for which the name Tropicibacter phthalicus sp. nov. is proposed. The type strain of Tropicibacter phthalicus is designated as KU27E1(T) (=JCM 17793(T) = KCTC 23703(T)).</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Life Science &amp; Biotechnology, Kansai University, Suita, Osaka, Japan, iwaki@kansai-u.ac.jp.</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Iwaki</LastName>
+                    <ForeName>Hiroaki</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author>
+                    <LastName>Nishimura</LastName>
+                    <ForeName>Ayaka</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author>
+                    <LastName>Hasegawa</LastName>
+                    <ForeName>Yoshie</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Curr Microbiol</MedlineTA>
+            <NlmUniqueID>7808448</NlmUniqueID>
+            <ISSNLinking>0343-8651</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00284-012-0085-8</ArticleId>
+            <ArticleId IdType="pubmed">22278761</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">22273979</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>1</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-072X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of microbiology</Title>
+            </Journal>
+            <ArticleTitle>Analysis of the cell surface layer ultrastructure of the oral pathogen Tannerella forsythia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Gram-negative oral pathogen Tannerella forsythia is decorated with a 2D crystalline surface (S-) layer, with two different S-layer glycoprotein species being present. Prompted by the predicted virulence potential of the S-layer, this study focused on the analysis of the arrangement of the individual S-layer glycoproteins by a combination of microscopic, genetic, and biochemical analyses. The two S-layer genes are transcribed into mRNA and expressed into protein in equal amounts. The S-layer was investigated on intact bacterial cells by transmission electron microscopy, by immune fluorescence microscopy, and by atomic force microscopy. The analyses of wild-type cells revealed a distinct square S-layer lattice with an overall lattice constant of 10.1 ± 0.7 nm. In contrast, a blurred lattice with a lattice constant of 9.0 nm was found on S-layer single-mutant cells. This together with in vitro self-assembly studies using purified (glyco)protein species indicated their increased structural flexibility after self-assembly and/or impaired self-assembly capability. In conjunction with TEM analyses of thin-sectioned cells, this study demonstrates the unusual case that two S-layer glycoproteins are co-assembled into a single S-layer. Additionally, flagella and pilus-like structures were observed on T. forsythia cells, which might impact the pathogenicity of this bacterium.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of NanoBiotechnology, Vienna Institute of BioTechnology, Universität für Bodenkultur Wien, Muthgasse 11, 1190, Wien, Austria.</Affiliation>
+            <AuthorList>
+                <Author>
+                    <LastName>Sekot</LastName>
+                    <ForeName>Gerhard</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author>
+                    <LastName>Posch</LastName>
+                    <ForeName>Gerald</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author>
+                    <LastName>Oh</LastName>
+                    <ForeName>Yoo Jin</ForeName>
+                    <Initials>YJ</Initials>
+                </Author>
+                <Author>
+                    <LastName>Zayni</LastName>
+                    <ForeName>Sonja</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author>
+                    <LastName>Mayer</LastName>
+                    <ForeName>Harald F</ForeName>
+                    <Initials>HF</Initials>
+                </Author>
+                <Author>
+                    <LastName>Pum</LastName>
+                    <ForeName>Dietmar</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author>
+                    <LastName>Messner</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author>
+                    <LastName>Hinterdorfer</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author>
+                    <LastName>Schäffer</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Arch Microbiol</MedlineTA>
+            <NlmUniqueID>0410427</NlmUniqueID>
+            <ISSNLinking>0302-8933</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00203-012-0792-3</ArticleId>
+            <ArticleId IdType="pubmed">22273979</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
+
